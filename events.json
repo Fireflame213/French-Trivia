@@ -1,21 +1,51 @@
 {
-   "Who is the Current French president?":[
+   "Qui est l'actuel president francais?":[
       "emmanuel macron"
    ],
-   "What is the Capital of France?":[
+   "Quelle est la capitale de la France?":[
       "paris"
    ],
-   "Which francophonie country is Dakar located?":[
+   "Dans quel pays de la francophonie se situe Dakar?":[
       "senegal"
    ],
-   "Which francophonie country has Dutch, German, and French as their national language?":[
-      "belgium"
+   "Quel pays de la francophonie a le neerlandais, l'allemand et le francais comme langue nationale?":[
+      "belgique"
    ],
-   "How many francophonie countries are there?":[
+   "Combien des gouvernements utilisent le francais comme langue officielle?":[
       "88"
    ],
-   "The most famous landmark of France?":[
-      "eiffel tower"
+   "Le monument le plus celebre de France?":[
+      "tour eiffel"
+   ],
+   "Quel est le plus grand pays francophone?":[
+      "canada"
+   ],
+   "Quel pays francophone a plus de 7000 lacs?":[
+      "suisse"
+   ],
+   "Quel pays francophone a un film du meme nom?":[
+      "Madagascar"
+   ],
+   "Quel pays francophone a le plus long littoral (coastline) du monde?":[
+      "canada"
+   ],
+   "Dans quel pays francophone se trouve Emi Koussi, le point culminant du desert du Sahara?":[
+      "tchad"
+   ],
+   "Quel pays francophone est egalement connu sous le nom de mini afrique en raison de sa grande diversite naturelle?":[
+      "cameroun"
+   ],
+   "Quel pays francophone est connu comme l'hexagone?":[
+      "france"
+   ],
+   "Où se trouve le musee d'art le plus visite?":[
+      "france"
+   ],
+   "Quel pays francophone a des patates douces, des haricots, du mais, des pois, du millet et des fruits comme regime alimentaire commun?":[
+      "rwanda"
+   ],
+   "Quel est le premier pays a adopter le christianisme?":[
+      "armenie"
    ]
 
 }

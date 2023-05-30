@@ -24,13 +24,13 @@ function updateCellClasses(cellClasses, correct) {
 }
 
 function displayWinMessage() {
-    let message = "You won ";
+    let message = "Tu as gagne ";
     if (currentRow == 0) {
-        message += "first try!";
+        message += "la premiere fois!";
     } else {
-        message += `in ${currentRow + 1} tries!`;
+        message += `in ${currentRow + 1} essaies!`;
     }
-    message += `<br><br>Reload the page to play again!`;
+    message += `<br><br>Rechargez la page pour rejouer`;
     setTimeout(function() {
         $("#center-box").addClass("content").html(message);
     }, 1000);  // Display the message box after 1s.
